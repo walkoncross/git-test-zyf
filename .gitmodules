@@ -1,0 +1,3 @@
+[submodule "git-submodule-zyf"]
+	path = git-submodule-zyf
+	url = git@github.com:walkoncross/git-submodule-zyf.git
